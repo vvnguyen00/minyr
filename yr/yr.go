@@ -5,7 +5,7 @@ import (
 	"strconv"
 	//"strings"
 	//"errors"
-	"github.com/vvnguyen00/misc/conv"
+	"github.com/vvnguyen00/funtemps/conv"
 )
 
 func CelsiusToFahrenheitString(celsius string) (string, error) {
