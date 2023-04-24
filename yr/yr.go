@@ -3,8 +3,8 @@ package yr
 import (
 	"fmt"
 	"strconv"
-	//"strings"
-	//"errors"
+	"strings"
+	"errors"
 	"github.com/vvnguyen00/funtemps/conv"
 )
 
